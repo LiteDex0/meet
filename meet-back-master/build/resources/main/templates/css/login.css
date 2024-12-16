@@ -1,0 +1,73 @@
+
+
+body {
+    background:url(/css/img/loginback.png);
+    padding: 0px; margin: 0px
+}
+
+.form{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+    padding-bottom: 19%;
+    max-width: 600px;
+    justify-content: center;
+    display: grid;
+}
+switch{
+    display: flex;
+    justify-content: center;
+}
+.text_form{
+    border: none;
+}
+
+.text1{
+    color: #24272C;
+    text-decoration: none;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    background: #3A91C1;
+    padding-top: 5%;
+    padding-right: 25%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+
+}
+.text2{
+    color: #24272C;
+    text-decoration: none;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+
+    padding-top: 5%;
+    padding-right: 25%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+}
+.text2:hover{
+    background-color: #3A91C1;
+}
+.submit{
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    background: #3A91C1;
+    padding-top: 19px;
+    padding-right: 95px;
+    padding-bottom: 19px;
+    padding-left: 95px;
+
+}
+.submit:hover{
+    opacity: 0.3;
+}
+
+.form1{
+    margin-top: 63px;
+}
